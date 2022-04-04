@@ -1,3 +1,6 @@
+Hier ist der GitLink zum RepoDownload: https://github.com/Tinko1/trafficlight2021Observer.git
+
+
 # Traffic Light
 
 Das ist das Grundgerüst für die zweite Übung.
